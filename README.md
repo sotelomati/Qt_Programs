@@ -1,2 +1,2 @@
 # Qt_Programs
-Qt_programs to lear
+Qt_programs to learn
